@@ -10,3 +10,7 @@ html {
 
 /* Write your solution here */
 
+@media only screen (max-width:1196px) {
+  position: fixed;
+  
+}
